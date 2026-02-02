@@ -1,4 +1,4 @@
-package com.zyz.base.function;
+package com.zyz.base.easy;
 
 import java.util.HashMap;
 import java.util.Map;
